@@ -11,9 +11,9 @@ https://abhay619.github.io/SimonsGame/
 
 The game starts with the series of buttons highlighted and the player has to follow the order of the highlighted buttons.
 <br>
-<img width="742" alt="image" src="https://github.com/user-attachments/assets/c5f46a23-1671-46db-a6c9-812ba4a172cf">
+<img width="840" alt="image" src="https://github.com/user-attachments/assets/c5f46a23-1671-46db-a6c9-812ba4a172cf">
 <br>
-<img width="683" alt="image" src="https://github.com/user-attachments/assets/99122895-7414-4b3b-aa4d-087f1c8f9bed">
+<img width="840" alt="image" src="https://github.com/user-attachments/assets/99122895-7414-4b3b-aa4d-087f1c8f9bed">
 
 
 <br>
